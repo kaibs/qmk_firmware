@@ -1,0 +1,20 @@
+{
+    "keyboard_name": "macropad",
+    "url": "",
+    "maintainer": "kaibs",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K00 (B9,B6)", "x": 0, "y": 0 },
+                { "label": "K01 (B9,B5)", "x": 1, "y": 0 },
+                { "label": "K02 (B9,B4)", "x": 2, "y": 0 },
+                { "label": "K10 (B8,B6)", "x": 0, "y": 1 },
+                { "label": "K11 (B8,B5)", "x": 1, "y": 1 },
+                { "label": "K12 (B8,B4)", "x": 2, "y": 1 },
+                { "label": "K20 (B7,B6)", "x": 0, "y": 2 },
+                { "label": "K21 (B7,B5)", "x": 1, "y": 2 },
+                { "label": "K22 (B7,B4)", "x": 2, "y": 2 }
+            ]
+        }
+    }
+}
